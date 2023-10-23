@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saumyem
+- 👋 Hi, I’m saumye mahajan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend and backend technologies
 - 💞️ I’m looking to collaborate on ...
